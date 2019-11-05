@@ -1,0 +1,11 @@
+{
+  "body": "{\"content\":\"hey baby\",\"attachment\":\"memos.jpg\"}",
+  "pathParameters": {
+    "id": "bd8f90d0-fd59-11e9-b8ad-abd4afc7c663"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
